@@ -4,16 +4,6 @@
 
 Projeto acadêmico desenvolvido para a disciplina UDWMG 2025 - Centro Universitário UNA
 
-## 📂 Estrutura do Projeto
-binary-tree-project/
-├── src/
-│ ├── BinaryTreeNode.java # Classe do Nó da Árvore
-│ ├── BinaryTree.java # Implementação Principal
-│ └── Main.java # Testes e Exemplos
-├── docs/
-│ └── relatorio.pdf # Documentação Completa
-├── README.md
-
 ## 🧩 Classes Implementadas
 
 ### `BinaryTreeNode.java`
