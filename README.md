@@ -2,7 +2,7 @@
 
 [![Java](https://img.shields.io/badge/Java-17+-blue.svg)](https://www.oracle.com/java/)
 
-Projeto acadêmico desenvolvido para a disciplina UDWMG 2025 - Centro Universitário UNA
+Projeto acadêmico desenvolvido para a disciplina Estruturas de dados e análise de algoritmos 2025 - Centro Universitário UNA
 
 ## 🧩 Classes Implementadas
 
